@@ -1,0 +1,47 @@
+Enter Name: ashok
+Enter PIN: 8932
+Incorrect PIN, 2 tries left
+Enter PIN: 8931
+Enter 1 For Account Info
+Enter 2 For PIN Change
+Enter 3 For Balance Enquiry
+Enter 4 For Withdrawal
+Enter 5 For Deposit
+Select Operation: 1
+Account Information: 
+Name:  ashok
+Account Number:  4521857142
+Phone Number:  1237609412
+Enter Y to exit and N to continue operations: n
+Enter 1 For Account Info
+Enter 2 For PIN Change
+Enter 3 For Balance Enquiry
+Enter 4 For Withdrawal
+Enter 5 For Deposit
+Select Operation: 2
+Account Balance:  19000.0
+Enter Y to exit and N to continue operations: n
+Enter 1 For Account Info
+Enter 2 For PIN Change
+Enter 3 For Balance Enquiry
+Enter 4 For Withdrawal
+Enter 5 For Deposit
+Select Operation: 3
+Account Balance:  19000.0
+Enter Amount To Be Withdrawn: 10000
+New Account Balance is :  9000.0
+Enter Y to exit and N to continue operations: n
+Enter 1 For Account Info
+Enter 2 For PIN Change
+Enter 3 For Balance Enquiry
+Enter 4 For Withdrawal
+Enter 5 For Deposit
+Select Operation: 4
+Enter Amount To Be Deposited: 11000
+New Account Balance:  20000.0
+Enter Y to exit and N to continue operations: n
+Enter 1 For Account Info
+Enter 2 For PIN Change
+Enter 3 For Balance Enquiry
+Enter 4 For Withdrawal
+Enter 5 For Deposit
